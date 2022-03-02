@@ -1,9 +1,9 @@
 [
   {
     "full_name": "juntossomosmais/frontend-guideline",
-    "stargazers_count": 984,
+    "stargazers_count": 985,
     "open_issues_count": 1,
-    "forks_count": 33
+    "forks_count": 32
   },
   {
     "full_name": "HarshCasper/Data-Structures",
@@ -13,51 +13,51 @@
   },
   {
     "full_name": "HarshCasper/Rotten-Scripts",
-    "stargazers_count": 952,
-    "open_issues_count": 29,
-    "forks_count": 395
+    "stargazers_count": 959,
+    "open_issues_count": 38,
+    "forks_count": 401
   },
   {
     "full_name": "Saul-Mirone/milkdown",
-    "stargazers_count": 5798,
-    "open_issues_count": 17,
-    "forks_count": 213
+    "stargazers_count": 5818,
+    "open_issues_count": 21,
+    "forks_count": 217
   },
   {
     "full_name": "tayllan/awesome-algorithms",
-    "stargazers_count": 11097,
+    "stargazers_count": 11105,
     "open_issues_count": 0,
-    "forks_count": 1968
+    "forks_count": 1971
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 187065,
-    "open_issues_count": 106,
-    "forks_count": 26949
+    "stargazers_count": 187303,
+    "open_issues_count": 114,
+    "forks_count": 26998
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 63477,
+    "stargazers_count": 63674,
     "open_issues_count": 16,
-    "forks_count": 9630
+    "forks_count": 9660
   },
   {
     "full_name": "arpit456jain/Getting-Started-with-open-source",
-    "stargazers_count": 46,
-    "open_issues_count": 4,
-    "forks_count": 54
+    "stargazers_count": 53,
+    "open_issues_count": 9,
+    "forks_count": 61
   },
   {
     "full_name": "Python-World/python-mini-projects",
-    "stargazers_count": 9298,
-    "open_issues_count": 64,
-    "forks_count": 2632
+    "stargazers_count": 9476,
+    "open_issues_count": 69,
+    "forks_count": 2678
   },
   {
     "full_name": "hasura/learn-graphql",
-    "stargazers_count": 854,
-    "open_issues_count": 30,
-    "forks_count": 503
+    "stargazers_count": 857,
+    "open_issues_count": 22,
+    "forks_count": 504
   },
   {
     "full_name": "ngx-rocket/generator-ngx-rocket",
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "naver/fe-news",
-    "stargazers_count": 2489,
+    "stargazers_count": 2492,
     "open_issues_count": 0,
     "forks_count": 149
   },
   {
     "full_name": "mgechev/angular-performance-checklist",
-    "stargazers_count": 3802,
+    "stargazers_count": 3801,
     "open_issues_count": 1,
     "forks_count": 433
   },
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "vmware/clarity",
-    "stargazers_count": 6431,
-    "open_issues_count": 156,
-    "forks_count": 761
+    "stargazers_count": 6437,
+    "open_issues_count": 155,
+    "forks_count": 763
   },
   {
     "full_name": "primefaces/primeng",
-    "stargazers_count": 7297,
-    "open_issues_count": 1119,
-    "forks_count": 3704
+    "stargazers_count": 7304,
+    "open_issues_count": 1125,
+    "forks_count": 3712
   },
   {
     "full_name": "PatrickJS/awesome-angular",
-    "stargazers_count": 8228,
+    "stargazers_count": 8229,
     "open_issues_count": 8,
     "forks_count": 1231
   },
   {
     "full_name": "jainaman224/Algo_Ds_Notes",
-    "stargazers_count": 1970,
+    "stargazers_count": 1972,
     "open_issues_count": 222,
-    "forks_count": 1968
+    "forks_count": 1970
   },
   {
     "full_name": "Yonet/Angular-Interview-Questions",
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 10056,
-    "open_issues_count": 14,
-    "forks_count": 6134
+    "stargazers_count": 10201,
+    "open_issues_count": 11,
+    "forks_count": 6203
   },
   {
     "full_name": "kothariji/competitive-programming",
-    "stargazers_count": 384,
+    "stargazers_count": 386,
     "open_issues_count": 11,
     "forks_count": 390
   },
   {
     "full_name": "sastava007/Tech-Interview-Preparation",
-    "stargazers_count": 505,
+    "stargazers_count": 507,
     "open_issues_count": 14,
-    "forks_count": 106
+    "forks_count": 107
   },
   {
     "full_name": "siddiqus/useful-scripts",
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "devkodeio/the-dom-challenge",
-    "stargazers_count": 290,
+    "stargazers_count": 295,
     "open_issues_count": 0,
     "forks_count": 62
   },
   {
     "full_name": "sadanandpai/frontend-learning-kit",
-    "stargazers_count": 1335,
+    "stargazers_count": 1346,
     "open_issues_count": 0,
-    "forks_count": 282
+    "forks_count": 285
   },
   {
     "full_name": "know-prashant/vanilla-js-components",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "google/eng-practices",
-    "stargazers_count": 17959,
+    "stargazers_count": 17973,
     "open_issues_count": 6,
-    "forks_count": 1715
+    "forks_count": 1716
   }
 ]
